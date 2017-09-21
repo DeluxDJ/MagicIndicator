@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d97c7dc8e51ab0107b37f8eb4943c5fcdcfbf3">
+        <dex dex="/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e930fc72d6c84bc1e7b94022e42537c8e99749e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1e1041932e81b262ed2e8a0449afbda52859028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6007c27d9db34f71a760fe18ca7c3bccb5f2ebe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongjiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d3e7857cd9af4f8bf9b2cd1f2d901ac62ab2bb66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongjiang/.android/build-cache/a52f2355d606a6780f9e0115f3aaf4c1ff8212d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_061fe5f520b6698d48034834463490a0d7f62a9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongjiang/.android/build-cache/697a4e4ef504021204443d1c33e98bd8e666fb60/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_4864f401257f67cb76bd9e5e25c64cbf27955039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongjiang/.android/build-cache/697a4e4ef504021204443d1c33e98bd8e666fb60/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4a7fa7d1216d8d9eac9fa74ba956bc210d0d503/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dongjiang/.android/build-cache/4f95b39c7d50472532273492627c98d550d7659a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c90d806c704b04b4771230d2fa60815061755f85/classes.dex" />
+    </item>
+
+</items>

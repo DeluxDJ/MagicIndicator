@@ -1,0 +1,19 @@
+#Thu Sep 21 17:16:20 CST 2017
+renamed.5=classes4.dex
+renamed.4=classes2.dex
+renamed.3=classes6.dex
+renamed.2=classes5.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.5=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c90d806c704b04b4771230d2fa60815061755f85
+base.4=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1e1041932e81b262ed2e8a0449afbda52859028
+base.3=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d3e7857cd9af4f8bf9b2cd1f2d901ac62ab2bb66
+base.2=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_4864f401257f67cb76bd9e5e25c64cbf27955039
+base.1=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4a7fa7d1216d8d9eac9fa74ba956bc210d0d503
+base.0=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_061fe5f520b6698d48034834463490a0d7f62a9d
+file.5=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c90d806c704b04b4771230d2fa60815061755f85/classes.dex
+file.4=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1e1041932e81b262ed2e8a0449afbda52859028/classes.dex
+file.3=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d3e7857cd9af4f8bf9b2cd1f2d901ac62ab2bb66/classes.dex
+file.2=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_4864f401257f67cb76bd9e5e25c64cbf27955039/classes.dex
+file.1=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4a7fa7d1216d8d9eac9fa74ba956bc210d0d503/classes.dex
+file.0=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_061fe5f520b6698d48034834463490a0d7f62a9d/classes.dex

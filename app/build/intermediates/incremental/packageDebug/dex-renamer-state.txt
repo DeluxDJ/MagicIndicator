@@ -1,0 +1,7 @@
+#Thu Sep 21 17:16:20 CST 2017
+base.0=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e930fc72d6c84bc1e7b94022e42537c8e99749e3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6007c27d9db34f71a760fe18ca7c3bccb5f2ebe8/classes.dex
+base.1=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6007c27d9db34f71a760fe18ca7c3bccb5f2ebe8
+file.0=/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e930fc72d6c84bc1e7b94022e42537c8e99749e3/classes.dex
