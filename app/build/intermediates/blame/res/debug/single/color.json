@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

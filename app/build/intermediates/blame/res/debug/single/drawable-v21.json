@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/dongjiang/AndroidStudioProjects/MagicIndicator/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/dongjiang/.android/build-cache/78e1f87716b1b2a85a2c67a57ebc891714916579/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
